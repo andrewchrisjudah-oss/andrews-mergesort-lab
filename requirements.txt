@@ -1,0 +1,2 @@
+streamlit>=1.57,<2
+graphviz>=0.19,<1
